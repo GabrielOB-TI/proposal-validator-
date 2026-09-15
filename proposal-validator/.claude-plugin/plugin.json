@@ -1,0 +1,16 @@
+{
+  "name": "proposal-validator",
+  "description": "Pack de skills para atacar, validar, expandir e consolidar propostas de produto e feature (SaaS), com rubrica de qualidade compartilhada e decision log versionado.",
+  "version": "0.1.0",
+  "author": {
+    "name": "GabrielOB-TI"
+  },
+  "keywords": [
+    "product-management",
+    "prd",
+    "discovery",
+    "red-team",
+    "premortem",
+    "validation"
+  ]
+}

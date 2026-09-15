@@ -1,0 +1,13 @@
+{
+  "name": "proposal-tools",
+  "owner": {
+    "name": "GabrielOB-TI"
+  },
+  "plugins": [
+    {
+      "name": "proposal-validator",
+      "source": "./",
+      "description": "Atacar, validar, expandir e consolidar propostas de produto (SaaS), com rubrica de qualidade e decision log."
+    }
+  ]
+}
