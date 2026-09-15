@@ -1,0 +1,22 @@
+# Lixo de sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Trabalho real — propostas e logs com conteudo da empresa
+# Mantenha o plugin publico e o material de trabalho fora dele.
+propostas/
+logs/
+*.local.md
+decision-log-*.md
+!templates/decision-log.md
+
+# Rascunhos e saidas de teste
+*.draft.md
+workspace/
